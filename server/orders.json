@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1743423075453,
+    "items": [
+      {
+        "id": 2,
+        "title": "Mens Casual Premium Slim Fit T-Shirts ",
+        "price": 22.3,
+        "quantity": 1
+      },
+      {
+        "id": 1,
+        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "price": 109.95,
+        "quantity": 1
+      }
+    ],
+    "total": 132.25,
+    "date": "2025-03-31T12:11:15.453Z"
+  }
+]
